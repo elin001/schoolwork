@@ -1,6 +1,9 @@
 Tutorial: 5G
+
 Tutotorial is by Ellie Lin
+
 This tutorial will serve as an introduction fo 5G, providing a basic overview, history and a sample of what technologies could be impacted. 
+
 Target audience: People who have never been exposed to 5G beyond a commercial
 
 **What is 5G?**
