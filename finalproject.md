@@ -1,3 +1,8 @@
+Tutorial: 5G
+Tutotorial is by Ellie Lin
+This tutorial will serve as an introduction fo 5G, providing a basic overview, history and a sample of what technologies could be impacted. 
+Target audience: People who have never been exposed to 5G beyond a commercial
+
 **What is 5G?**
 5G is the latest generation in a series of mobile networks. The International Telecommunications Union, which is the United Nation’s agency on communication technology, set the standard for 5G in 2015. Standards include a lessened latency and faster download speeds than previous networks – eventually up to 10 gigabits per second. [Edwards, Hoffman](https://www.howtogeek.com/340002/what-is-5g-and-how-fast-will-it-be/). 5G will also include the capability for more devices to connect to a network. Networks began rollouts in 2018 and are still being implemented worldwide [Duffy](https://www.cnn.com/interactive/2020/03/business/what-is-5g/). 
 
